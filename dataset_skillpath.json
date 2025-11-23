@@ -1,0 +1,24 @@
+[
+  {
+    "id_usuario_final": 1,
+    "nome_usuario": "Augusto Lopes",
+    "email": "augustolopes@email.com",
+    "id_trilha": 1,
+    "nome_trilha": "Front-End React Developer",
+    "area": "DESENVOLVIMENTO",
+    "nivel": "INICIANTE",
+    "valor_nota": 5,
+    "observacao": "Trilha muito clara para iniciantes."
+  },
+  {
+    "id_usuario_final": 2,
+    "nome_usuario": "Felipe Ulson",
+    "email": "felipeulson@email.com",
+    "id_trilha": 1,
+    "nome_trilha": "Front-End React Developer",
+    "area": "DESENVOLVIMENTO",
+    "nivel": "INICIANTE",
+    "valor_nota": 4,
+    "observacao": "Conteúdos bons, faltou mais prática."
+  }
+]
