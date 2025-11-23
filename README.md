@@ -206,7 +206,7 @@ Felipe Ulson Sora — RM 555462
 
 Vinícius Ribeiro Nery — RM 559165
 
-## [▶️ Vídeo de Demonstração — SkillPath IA](https://youtu.be/VKHiXhAGfUU)
+## [▶️ Vídeo de Demonstração — SkillPath IA](https://www.youtube.com/watch?v=qquCc49jPBo)
 ## [📄 Ver dataset_skillpath.json](./dataset_skillpath.json)
 
 
